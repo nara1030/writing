@@ -44,10 +44,10 @@ W
 ## 축구
 임의대로 분류하고, 적는다(정확한 이론이 아닌 개인적 생각이다).
 
-1. [개인전술](./doc_0/README.md)
-2. [팀전술](./doc_1/README.md)
-3. [선수](./doc_2/README.md)
-4. [체력](./doc_3/README.md)
-5. [운동기록](./doc_4/README.md)
+1. [개인전술](./soccer/doc_0/README.md)
+2. [팀전술](./soccer/doc_1/README.md)
+3. [선수](./soccer/doc_2/README.md)
+4. [체력](./soccer/doc_3/README.md)
+5. [운동기록](./soccer/doc_4/README.md)
 
 ##### [목차로 이동](#목차)
